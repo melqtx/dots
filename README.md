@@ -1,1 +1,1 @@
-i lowkey thought i uploaded that image
+![Screenshot of my project](wallpapers/desktop.png)
