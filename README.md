@@ -13,5 +13,5 @@ which i gathered around by `^c^v`
 
 ![Screenshot](wallpapers/bait.png)
 
---
+------
 gotta thank [aseth](https://github.com/Asethcore/.dotfiles)
