@@ -9,4 +9,4 @@ which i gathered around by `^c^v`
 | App Drawer| rofi   |
 
 
-![Screenshot of my project](wallpapers/bait.png)
+!(wallpapers/bait.png)
