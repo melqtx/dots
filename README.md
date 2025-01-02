@@ -1,2 +1,1 @@
-# dots
-/home/v/Pictures/bait.png
+i lowkey thought i uploaded that image
