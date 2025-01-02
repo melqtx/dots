@@ -1,0 +1,8 @@
+
+confirm-close-surface = false
+font-family = "JetBrains Mono Nerd Font"
+font-size = 10
+gtk-titlebar = false
+background-opacity = 0.8
+theme = gruvbox-dark
+command = sh -c "pfetch; exec $SHELL"
