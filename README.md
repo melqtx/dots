@@ -12,3 +12,6 @@ which i gathered around by `^c^v`
 | App Drawer | rofi |
 
 ![Screenshot](wallpapers/bait.png)
+
+--
+gotta thank [aseth](https://github.com/Asethcore/.dotfiles)
