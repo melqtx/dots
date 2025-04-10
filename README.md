@@ -13,8 +13,9 @@ NEVER SKIP / IGNORE / AVOID README
 ‌‌‌‌‍﻿‌﻿\‌‌‌‌‍‬‍‍ ||       / ‌‌‌‌‌﻿‍﻿ ‌‌‌‌‍‬‍‍|  /  \_|  |/‌‌‌‌‍‬﻿‬  |  |/  |/  / \‌‌‌‌‍‌‌‌‌‌‌‌‍﻿‌‌_
  \||     ‌‌‌‌‍‬﻿‍  \_/|_/\__/ |_‌‌‌‌‌‬﻿‬/‌‌‌‌‍‬﻿‍|__/|_‌‌‌‌‍‬‍‍/|__/‌‌‌‌‌﻿﻿‬|__/ \/ 
   \|                     |\                 
-   |  6F 77 6C 34 63 65  |/  with aesthetics
+   |  6D 65 6C 71 74 78  |/  with aesthetics
 ```
+
 which i gathered around by `^c^v`
 
 | Distro | Arch |
@@ -28,5 +29,3 @@ which i gathered around by `^c^v`
 
 ![Screenshot](wallpapers/bait.png)
 
-------
-gotta thank [aseth](https://github.com/Asethcore/.dotfiles)
